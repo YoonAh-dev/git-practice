@@ -1,4 +1,4 @@
-function add(x, y) {
+function plus(x, y) {
   return x + y
 }
 
